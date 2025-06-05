@@ -1,0 +1,7 @@
+[Produto.inserir] 2025-06-04T23:28:23.696Z - Campos obrigatórios ausentes (nome, preco, categoria)
+[Produto.deletarPorId] 2025-06-04T23:33:51.600Z - input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+[Produto.inserir] 2025-06-04T23:38:17.305Z - Campos obrigatórios ausentes (nome, preco, categoria)
+[Produto.inserir] 2025-06-04T23:38:33.647Z - Campos obrigatórios ausentes (nome, preco, categoria)
+2025-06-05T00:11:56.385Z - [Cliente.inserir] Campos obrigatórios ausentes (nome, email)
+2025-06-05T00:12:37.160Z - [Cliente.inserir] Campos obrigatórios ausentes (nome, email)
+2025-06-05T00:12:37.163Z - [Produto.inserir] Campos obrigatórios ausentes (nome, preco, categoria)
